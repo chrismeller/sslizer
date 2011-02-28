@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pluggable type="plugin" xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='http://schemas.habariproject.org/Pluggable-1.3.xsd'>
+	<name>SSLizer</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>http://habariproject.org</url>
+	<author url="http://chrismeller.com">Chris Meller</author>
+	<version>1.0</version>
+	<guid>70602f01-98da-4bc5-a2fd-f568e5f57084</guid>
+	<description><![CDATA[Rewrites all links on your site to SSL versions when a page is loaded over SSL, to avoid browser warnings about unsafe content.]]></description>
+</pluggable>
