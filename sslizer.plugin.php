@@ -1,5 +1,7 @@
 <?php
 
+	namespace Habari;
+
 	class SSLizer extends Plugin {
 		
 		public function filter_final_output ( $content ) {
